@@ -1,0 +1,10 @@
+body {
+  display: block;
+  margin: 0;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+
+:root {
+  --super-z-index: 1000;
+}

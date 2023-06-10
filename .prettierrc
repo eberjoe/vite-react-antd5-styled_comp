@@ -1,0 +1,18 @@
+{
+    "trailingComma": "none",
+    "singleQuote": true,
+    "overrides": [
+      {
+          "files": ["**/*.css", "**/*.scss", "**/*.html", "vite.config.ts"],
+          "options": {
+              "singleQuote": false,
+              "trailingComma": "es5"
+          }
+      }
+    ],
+    "jsxSingleQuote": false,
+    "tabWidth": 2,
+    "bracketSpacing": true,
+    "semi": true,
+    "endOfLine": "auto"
+  }
